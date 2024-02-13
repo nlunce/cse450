@@ -1,71 +1,71 @@
-zipcode,property_crime_rate_closest_city,violent_crime_rate_closest_city,school_district
-98001,2248.3,63.3,Federal Way School District
-98002,5435.5,408.1,Auburn School District
-98003,5407.5,389.7,Federal Way School District
-98004,1568.7,0,Bellevue School District
-98005,3126.4,109.7,Bellevue School District
-98006,2321.9,17.5,Bellevue School District
-98007,3126.4,109.7,Bellevue School District
-98008,3126.4,109.7,Bellevue School District
-98010,1163.6,68.4,Enumclaw School District
-98011,2918.7,91,Northshore School District
-98014,621.7,25.4,Riverview School District
-98019,621.7,25.4,Riverview School District
-98022,2805.2,42.9,White River School District
-98023,5407.5,389.7,Federal Way School District
-98024,1262.5,22.8,Snoqualmie Valley School District
-98027,3091.5,28.6,Issaquah School District
-98028,1456.5,63.1,Northshore School District
-98029,3091.5,28.6,Issaquah School District
-98030,4847.6,265.6,Kent School District
-98031,4847.6,265.6,Kent School District
-98032,3073.2,357.4,Kent School District
-98033,2007.1,88.5,Lake Washington School District
-98034,2007.1,88.5,Lake Washington School District
-98038,1732.6,89.4,Tahoma School District
-98039,2312.7,30.8,Bellevue School District
-98040,2203.2,20.2,Mercer Island School District
-98042,3583.9,133.1,Kent School District
-98045,3584.6,73.8,Snoqualmie Valley School District
-98052,2966.5,105.7,Lake Washington School District
-98053,2966.5,105.7,Lake Washington School District
-98055,5794.1,300,Renton School District
-98056,2321.9,17.5,Renton School District
-98058,5794.1,300,Kent School District
-98059,2321.9,17.5,Issaquah School District
-98065,1262.5,22.8,Snoqualmie Valley School District
-98070,2185,74.8,Vashon Island School District
-98072,3442,122,Northshore School District
-98074,748.6,22.9,Lake Washington School District
-98075,748.6,22.9,Issaquah School District
-98077,3442,122,Northshore School District
-98092,5435.5,408.1,Auburn School District
-98102,5522,598.7,Seattle Public Schools
-98103,5522,598.7,Seattle Public Schools
-98105,5522,598.7,Seattle Public Schools
-98106,4727.7,392.5,Seattle Public Schools
-98107,5522,598.7,Seattle Public Schools
-98108,2203.2,20.2,Seattle Public Schools
-98109,5522,598.7,Seattle Public Schools
-98112,5522,598.7,Seattle Public Schools
-98115,1205.9,0,Seattle Public Schools
-98116,5522,598.7,Seattle Public Schools
-98117,5522,598.7,Seattle Public Schools
-98118,2203.2,20.2,Seattle Public Schools
-98119,5522,598.7,Seattle Public Schools
-98122,5522,598.7,Seattle Public Schools
-98125,2221.1,60,Seattle Public Schools
-98126,5522,598.7,Seattle Public Schools
-98133,2418.7,132.9,Shoreline School District
-98136,4727.7,392.5,Seattle Public Schools
-98144,5522,598.7,Seattle Public Schools
-98146,4727.7,392.5,Highline School District
-98148,4947.6,594.7,Highline School District
-98155,2221.1,60,Shoreline School District
-98166,4727.7,392.5,Highline School District
-98168,16583.8,750.6,Tukwila School District
-98177,2418.7,132.9,Shoreline School District
-98178,16583.8,750.6,Renton School District
-98188,4947.6,594.7,Renton School District
-98198,3073.2,357.4,Highline School District
-98199,5522,598.7,Seattle Public Schools
+zipcode,property_crime_rate_closest_city,violent_crime_rate_closest_city,school_district,school_rank
+98001,2248.3,63.3,Federal Way School District,6
+98002,5435.5,408.1,Auburn School District,4
+98003,5407.5,389.7,Federal Way School District,6
+98004,1568.7,0,Bellevue School District,1
+98005,3126.4,109.7,Bellevue School District,1
+98006,2321.9,17.5,Bellevue School District,1
+98007,3126.4,109.7,Bellevue School District,1
+98008,3126.4,109.7,Bellevue School District,1
+98010,1163.6,68.4,Enumclaw School District,6
+98011,2918.7,91,Northshore School District,1
+98014,621.7,25.4,Riverview School District,4
+98019,621.7,25.4,Riverview School District,4
+98022,2805.2,42.9,White River School District,4
+98023,5407.5,389.7,Federal Way School District,6
+98024,1262.5,22.8,Snoqualmie Valley School District,3
+98027,3091.5,28.6,Issaquah School District,1
+98028,1456.5,63.1,Northshore School District,1
+98029,3091.5,28.6,Issaquah School District,1
+98030,4847.6,265.6,Kent School District,5
+98031,4847.6,265.6,Kent School District,5
+98032,3073.2,357.4,Kent School District,5
+98033,2007.1,88.5,Lake Washington School District,1
+98034,2007.1,88.5,Lake Washington School District,1
+98038,1732.6,89.4,Tahoma School District,2
+98039,2312.7,30.8,Bellevue School District,1
+98040,2203.2,20.2,Mercer Island School District,1
+98042,3583.9,133.1,Kent School District,5
+98045,3584.6,73.8,Snoqualmie Valley School District,3
+98052,2966.5,105.7,Lake Washington School District,1
+98053,2966.5,105.7,Lake Washington School District,1
+98055,5794.1,300,Renton School District,5
+98056,2321.9,17.5,Renton School District,5
+98058,5794.1,300,Kent School District,5
+98059,2321.9,17.5,Issaquah School District,1
+98065,1262.5,22.8,Snoqualmie Valley School District,3
+98070,2185,74.8,Vashon Island School District,2
+98072,3442,122,Northshore School District,1
+98074,748.6,22.9,Lake Washington School District,1
+98075,748.6,22.9,Issaquah School District,1
+98077,3442,122,Northshore School District,1
+98092,5435.5,408.1,Auburn School District,4
+98102,5522,598.7,Seattle Public Schools,3
+98103,5522,598.7,Seattle Public Schools,3
+98105,5522,598.7,Seattle Public Schools,3
+98106,4727.7,392.5,Seattle Public Schools,3
+98107,5522,598.7,Seattle Public Schools,3
+98108,2203.2,20.2,Seattle Public Schools,3
+98109,5522,598.7,Seattle Public Schools,3
+98112,5522,598.7,Seattle Public Schools,3
+98115,1205.9,0,Seattle Public Schools,3
+98116,5522,598.7,Seattle Public Schools,3
+98117,5522,598.7,Seattle Public Schools,3
+98118,2203.2,20.2,Seattle Public Schools,3
+98119,5522,598.7,Seattle Public Schools,3
+98122,5522,598.7,Seattle Public Schools,3
+98125,2221.1,60,Seattle Public Schools,3
+98126,5522,598.7,Seattle Public Schools,3
+98133,2418.7,132.9,Shoreline School District,2
+98136,4727.7,392.5,Seattle Public Schools,3
+98144,5522,598.7,Seattle Public Schools,3
+98146,4727.7,392.5,Highline School District,7
+98148,4947.6,594.7,Highline School District,7
+98155,2221.1,60,Shoreline School District,2
+98166,4727.7,392.5,Highline School District,7
+98168,16583.8,750.6,Tukwila School District,6
+98177,2418.7,132.9,Shoreline School District,2
+98178,16583.8,750.6,Renton School District,5
+98188,4947.6,594.7,Renton School District,5
+98198,3073.2,357.4,Highline School District,7
+98199,5522,598.7,Seattle Public Schools,3
