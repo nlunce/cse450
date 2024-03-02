@@ -1,0 +1,15 @@
+Area: Gives the number of pixels within the boundaries of the grain.
+
+Perimeter: It measures the environment by calculating the distance between the boundaries of the grain and the pixels around it.
+
+MajorAxisLength: Gives the length of the main axis, which is the longest line that can be drawn on the grain.
+
+MinorAxisLength: Gives the length of the small axis, which is the shortest line that can be drawn on the grain.
+
+Eccentricity: It gives a measure of the eccentricity of the ellipse, which has the same moments as grain.
+
+ConvexArea: Gives the number of pixels of the smallest convex shell of the region formed by the grain.
+
+Extent: Gives the ratio of the region formed by the grain to the total pixels in the bounding box.
+
+Class: Osmancik and Cammeo grain kernels.
